@@ -1,0 +1,28 @@
+{
+  "name": "newrelic-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namshi/node-newrelic-plus.git"
+  },
+  "keywords": [
+    "newrelic",
+    "namshi",
+    "error",
+    "swag"
+  ],
+  "author": "Alex Nadalin <alessandro.nadalin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namshi/node-newrelic-plus/issues"
+  },
+  "homepage": "https://github.com/namshi/node-newrelic-plus#readme",
+  "dependencies": {
+    "newrelic": "^1.38.2"
+  }
+}
