@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/namshi/node-newrelic-plus#readme",
   "dependencies": {
-    "newrelic": "^1.38.2"
+    "newrelic": "^1.40.0"
   }
 }
